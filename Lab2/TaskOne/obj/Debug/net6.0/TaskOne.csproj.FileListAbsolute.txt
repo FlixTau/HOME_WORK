@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\bin\Debug\net6.0\TaskOne.exe
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\bin\Debug\net6.0\TaskOne.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll

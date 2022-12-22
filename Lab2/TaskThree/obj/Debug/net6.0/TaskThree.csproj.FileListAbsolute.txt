@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\bin\Debug\net6.0\TaskThree.exe
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\bin\Debug\net6.0\TaskThree.deps.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\bin\Debug\net6.0\TaskThree.runtimeconfig.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\bin\Debug\net6.0\TaskThree.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\bin\Debug\net6.0\TaskThree.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfo.cs
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\refint\TaskThree.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\TaskThree.genruntimeconfig.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskThree\obj\Debug\net6.0\ref\TaskThree.dll

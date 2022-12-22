@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\bin\Debug\net6.0\TaskTwo.exe
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\bin\Debug\net6.0\TaskTwo.deps.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\bin\Debug\net6.0\TaskTwo.runtimeconfig.json
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\bin\Debug\net6.0\TaskTwo.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\bin\Debug\net6.0\TaskTwo.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfo.cs
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\refint\TaskTwo.dll
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.pdb
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\TaskTwo.genruntimeconfig.cache
+D:\GeekBrains\C#\HOME_WORK\Lab2\TaskTwo\obj\Debug\net6.0\ref\TaskTwo.dll
